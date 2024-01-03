@@ -20,6 +20,8 @@ import {
     testassislp,
     testassis,
     homepage,
+    commercial,
+    commercial1,
     threejs,
   } from "../assets";
   
@@ -230,6 +232,56 @@ import {
       ],
       image: homepage,
       source_code_link: "https://github.com/",
+    },
+    {
+      name: "Commercial App",
+      description:
+        "A commercial application containing interactive components which include various graphs, calender, kanban, color picker, order details.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "js",
+          color: "green-text-gradient",
+        },
+        {
+          name: "html",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "tailwindcss",
+          color: "orange-text-gradient",
+        },
+      ],
+      image: commercial,
+      source_code_link: "https://commercial-chi.vercel.app/",
+    },
+    {
+      name: "Commercial App",
+      description:
+        "A commercial application containing interactive components which include various graphs, calender, kanban, color picker, order details.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "js",
+          color: "green-text-gradient",
+        },
+        {
+          name: "html",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "tailwindcss",
+          color: "orange-text-gradient",
+        },
+      ],
+      image: commercial1,
+      source_code_link: "https://commercial-chi.vercel.app/",
     },
   ];
   

@@ -27,6 +27,8 @@ import otw from "./company/otw.webp"
 import testassislp from "./testassislp.png";
 import testassis from "./testassis.png";
 import homepage from "./homepage.png";
+import commercial from "./commercial.png"
+import commercial1 from "./commercial1.png"
 
 export {
   logo,
@@ -54,5 +56,7 @@ export {
   testassislp,
   testassis,
   homepage,
+  commercial,
+  commercial1,
   plogo,
 };
